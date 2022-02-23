@@ -1,0 +1,12 @@
+2022-02-23 17:26:45,910 - root - INFO - Opening File D:\python_1\carbon_nanotubes.csv
+2022-02-23 17:26:45,954 - root - INFO - File read complete
+2022-02-23 17:26:47,757 - root - INFO - Inserted 10721 records
+2022-02-23 17:26:53,976 - root - INFO - The find_one method on carbon_collection has been performed successfully
+2022-02-23 17:26:57,644 - root - INFO - The find method on carbon_collection has been performed successfully
+2022-02-23 17:27:00,959 - root - INFO - The filter criteria {'Chiral_indice_n': {'$in': [2]}, 'Chiral_indice_m': {'$in': [1, 2]}} of carbon_collection has been performed successfully
+2022-02-23 17:27:00,959 - root - INFO - 28 records fetched
+2022-02-23 17:27:06,713 - root - INFO - The Update criteria {'$set': {'Chiral_indice_n': 33}} over carbon_collection has been performed successfully
+2022-02-23 17:27:06,717 - root - INFO - 28 records updated
+2022-02-23 17:27:09,109 - root - INFO - The filter criteria {'Chiral_indice_n': {'$in': [2]}, 'Chiral_indice_m': {'$in': [1, 2]}} of carbon_collection has been performed successfully
+2022-02-23 17:27:09,125 - root - INFO - 0 records fetched
+2022-02-23 17:27:11,270 - root - INFO - The collection carbon_collection has been dropped
